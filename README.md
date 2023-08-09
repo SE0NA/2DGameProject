@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/85846475/205579809-495d792f-7559-4f2e-8e8e-0f2690136cd4.gif" height="200">
 <img src="https://user-images.githubusercontent.com/85846475/205581039-eb6de186-68d8-4c23-91fa-bf9d7d752658.gif" height="200">
 </div>
-<h6><a href="https://github.com/SE0NA/2DGameProject/blob/main/%EC%9A%B0%EC%A3%BC%EB%B0%A9%EB%B2%94%EB%8C%80%20play_video.mp4">전체 시현 영상</a></h6>
+<h6><a href="https://drive.google.com/file/d/1pp4zv6mzzaIRpyYAFE2Ih0AcNV6STWlU/view?usp=drive_link">전체 시현 영상</a></h6>
 <br><br>
 
 ***
